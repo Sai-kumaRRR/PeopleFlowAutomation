@@ -34,11 +34,6 @@ public class TestSelenium38_Selenium_StaleElementReferenceException_AcutalFix {
             // Driver will think that, element may or may not available now.
             // I have found the element before refresh.
 
-            // Refresh, Navigate other Page, change in DOM elements (Ajax Calls) - Vue.js, AngularJS
-
-            // If you want to fix the stale element exp - refind the element after DOM changes)
-            //search_inputbox  = driver.findElement(By.xpath("//textarea[@id='APjFqb']"));
-
 
 
             search_inputbox.sendKeys("PeopleFlow"+ Keys.ENTER);
