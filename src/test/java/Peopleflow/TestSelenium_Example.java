@@ -9,7 +9,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.annotations.Test;
 
-public class TestSelenium24_MiniProject06 extends CommonToAll {
+public class TestSelenium_Example extends CommonToAll {
 
 
     @Description("Verify Peopleflow opens with home page")

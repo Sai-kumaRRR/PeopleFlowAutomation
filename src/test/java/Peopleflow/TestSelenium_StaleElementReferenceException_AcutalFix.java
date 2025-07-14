@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 
-public class TestSelenium38_Selenium_StaleElementReferenceException_AcutalFix {
+public class TestSelenium_StaleElementReferenceException_AcutalFix {
 
     EdgeDriver driver;
 
